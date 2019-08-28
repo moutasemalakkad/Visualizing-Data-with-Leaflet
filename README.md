@@ -5,13 +5,15 @@ In this project, I have visualized earthquakes occurring globally using a live A
 
 
 # Technology stack used in developing this web application is as follows:
-leaflet.js
-HTML/CSS/Bootstrap/Javascript
-GeoJSON
-Data Sources used :
+1. leaflet.js
+1. HTML/CSS/Bootstrap/Javascript
+1. GeoJSON
 
-https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+
+# Data Sources used :
+
+1. https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+1. https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
 
 # Images from the final app
