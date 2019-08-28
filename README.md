@@ -18,6 +18,4 @@ In this project, I have visualized earthquakes occurring globally using a live A
 
 # Images from the final app
 ![2-BasicMap](Images/2-BasicMap.png)
-![3-Data](Images/3-Data.png)
-![4-JSON](Images/4-JSON.png)
 ![5-Advanced](Images/5-Advanced.png)
