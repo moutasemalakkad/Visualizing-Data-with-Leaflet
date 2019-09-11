@@ -109,13 +109,13 @@ function createMap() {
         "Plate Boundaries": plateBoundary,
     };
 
-    var mymap = L.map('mymap', {
+    var map = L.map('map', {
         center: [40, -99],
         zoom: 4.3,
         layers: [streetMap, earthquakes, plateBoundary]
     });
 
-    L.control.layers(baseLayers, overlays).addTo(mymap);
+    L.control.layers(baseLayers, overlays).addTo(map);
 
 
     var legend = L.control({ position: 'bottomright' });
@@ -136,5 +136,5 @@ function createMap() {
 
         return div;
     };
-    legend.addTo(mymap);
+    legend.addTo(map);
 }
